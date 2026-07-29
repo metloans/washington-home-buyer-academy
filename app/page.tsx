@@ -22,7 +22,7 @@ export default function Home() {
             <div className="mt-8 flex gap-4">
 
               <Link
-                href="/contact"
+                href="/home-buying-plan"
                 className="rounded-full bg-green-700 px-7 py-3 font-semibold text-white"
               >
                 Create My Home Buying Plan
