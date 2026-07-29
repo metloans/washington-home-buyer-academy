@@ -133,10 +133,10 @@ export default function Home() {
           </p>
 
           <Link
-            href="/contact"
-            className="inline-block mt-8 rounded-full bg-white px-8 py-4 font-bold text-blue-900"
-          >
-            Get Started
+            href="/home-buying-plan"
+  className="rounded-full bg-green-700 px-7 py-3 font-semibold text-white"
+>
+  Create My Home Buying Plan
           </Link>
 
         </div>
